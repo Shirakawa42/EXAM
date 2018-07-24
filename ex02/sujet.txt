@@ -1,0 +1,10 @@
+écrire une fonction qui affiche toutes les combinaisons differentes possibles de 3 chiffres differents, séparées par ", " et ne terminant pas par ", " bien evidemment.
+elle sera prototypée de la façon suivante:
+
+void	ft_print_comb(void);
+
+fonctions autorisées: 
+
+void	ft_putchar(char c);
+
+le grand et suprême correcteur compilera avec son propre ft_putchar et son propre main a l'aide d'un programme mega stylé qui s'appellera la moulinette du haut et grand lucas.

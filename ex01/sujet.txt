@@ -1,0 +1,12 @@
+écrire une fonction qui affiche l'alphabet en minuscule a l'envers.
+vous n'avez bien entendu pas le droit de faire 26 ft_putchar, il faut une boucle.
+
+elle sera prototypée de la façon suivante:
+
+void	ft_putalphabet(void);
+
+fonctions autorisées: 
+
+void	ft_putchar(char c);
+
+le grand et suprême correcteur compilera avec son propre ft_putchar et son propre main a l'aide d'un programme mega stylé qui s'appellera la moulinette du haut et grand lucas.
